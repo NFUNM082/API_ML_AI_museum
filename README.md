@@ -33,6 +33,10 @@
 | 3 | 展品信息 | 围观的人太多了，用户没办法仔细地阅读展品信息。 | 二维码识别 | 重要 |
 | 4 | 语音播报 | 用户不想去看文字信息。 | 语音合成 | 次重要 |
 
+## 原型
+- [原型展示](http://nfunm082.gitee.io/api_museum)
+- [原型下载区](https://github.com/NFUNM082/API_ML_AI_museum/tree/master/%E5%8E%9F%E5%9E%8B%E4%B8%8B%E8%BD%BD%E5%8C%BA)
+
 ## API
 #### 1. IP定位
 - 百度地图  
