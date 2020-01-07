@@ -45,20 +45,21 @@ API文档：[IP定位]（http://lbs.baidu.com/index.php?title=webapi/ip-api）
 - 高德地图  
 描述：能够将IP信息转换为地理位置信息。  
 API文档：[IP定位]（https://lbs.amap.com/api/webservice/guide/api/ipconfig/）  
+![测试代码](https://github.com/NFUNM082/API_ML_AI_museum/blob/master/images/IP.png) 
 #### 2. 百度AI-人流量统计api  
 描述：根据目标轨迹判断进出区域方向，实现动态人数统计，返回区域进出人数.  
 API文档：[人流量统计API文档]( https://ai.baidu.com/ai-doc/BODY/7k3cpyy1t)  
-测试代码：测试代码  
+![测试代码](https://github.com/NFUNM082/API_ML_AI_museum/blob/master/images/%E6%B5%81%E9%87%8F.png) 
 
 #### 3. 百度AI-二维码识别  
 描述：对图片中的二维码、条形码进行检测和识别，返回存储的文字信息  
 API文档：[ 二维码识别API文档]( https://ai.baidu.com/ai-doc/OCR/qk3h7y5o7)  
-测试代码：测试代码  
+![测试代码](https://github.com/NFUNM082/API_ML_AI_museum/blob/master/images/%E4%BA%8C%E7%BB%B4%E7%A0%81.png) 
 
 #### 4.	百度AI-语音合成api  
 描述：阅读文字信息时，使用语音合成技术为用户提供多种音库的朗读功能，释放双手和双眼，获得更极致的阅读体验  
 API文档：[语音合成API文档]( https://ai.baidu.com/ai-doc/SPEECH/Gk38y8lzk)  
-测试代码：测试代码  
+[示例代码](https://github.com/Baidu-AIP/speech-demo/tree/master/rest-api-tts/python)
 
 
 ## API使用比较分析
