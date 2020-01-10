@@ -36,6 +36,17 @@
 ## 原型
 - [原型展示](http://nfunm082.gitee.io/api_museum)
 - [原型下载区](https://github.com/NFUNM082/API_ML_AI_museum/tree/master/%E5%8E%9F%E5%9E%8B%E4%B8%8B%E8%BD%BD%E5%8C%BA)
+### 1.首页  
+![](https://github.com/NFUNM082/API_ML_AI_museum/blob/master/images/%E9%A6%96%E9%A1%B5.png)  
+
+### 2.查看展品页  
+![](https://github.com/NFUNM082/API_ML_AI_museum/blob/master/images/%E5%B1%95%E5%93%81.png)  
+
+### 3.人流量统计页  
+![](https://github.com/NFUNM082/API_ML_AI_museum/blob/master/images/%E4%BA%BA%E6%B5%81%E9%87%8F.png)  
+
+### 产品架构图  
+![](https://github.com/NFUNM082/API_ML_AI_museum/blob/master/images/%E6%9E%B6%E6%9E%84%E5%9B%BE.png)  
 
 ## API
 #### 1. IP定位
